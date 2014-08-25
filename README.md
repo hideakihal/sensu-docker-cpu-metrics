@@ -1,6 +1,8 @@
 sensu-docker-cpu-metrics
 ========================
 
+This Sensu-plugin gather docker containers cpu usage metrics from the host. 
+
 ## Usage
  
 Add the script on the docker host
