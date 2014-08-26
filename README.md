@@ -22,7 +22,7 @@ $ sudo watch /opt/sensu/embedded/bin/ruby docker-cpu-pcnt-usage-metrics.rb
 Add the metric check definition  
 
 ```
-$ vi /etc/sensu/conf.d/metrics/metric_vmstat.json
+$ vi /etc/sensu/conf.d/metrics/metric_docker_cpu_pcnt_usage.json
 ```
 
 ## References
